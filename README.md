@@ -12,7 +12,7 @@
 <h2>Little Helpful Scripts to Automate and Simplify Tasks:</h2>
 
   - [Helpful Scripts to Cleanup Computer](https://github.com/Fr33ze0910/CleanupComputer)
-  - [Auto Launch Programs Using Python]()
+  - [Auto Launch Programs Using Python](https://github.com/Fr33ze0910/AutomatePython)
     
 <h2>How I did it!</h2>
 
