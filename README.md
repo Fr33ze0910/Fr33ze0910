@@ -8,6 +8,11 @@
 
   - [Certified in Cybersecurity](https://i.imgur.com/RZANf3v.png)
   - [Additional Certifications]()
+
+<h2>Little Helpful Scripts to Automate and Simplify Tasks:</h2>
+
+  - [Helpful Scripts to Cleanup Computer]()
+  - [Auto Launch Programs Using Python]()
     
 <h2>How I did it!</h2>
 
