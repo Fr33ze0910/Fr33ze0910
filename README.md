@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Lab](https://github.com/Fr33ze0910/ActiveDirectoryLab)
+  - [Setup Lab Environment](https://github.com/Fr33ze0910/ActiveDirectoryLab)
 
 <h2>Certifications:</h2>
 
