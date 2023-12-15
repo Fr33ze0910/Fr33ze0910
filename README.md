@@ -6,7 +6,7 @@
 
 <h2>Certifications:</h2>
 
-  - [Certified in Cybersecurity]()
+  - [Certified in Cybersecurity](https://imgur.com/RZANf3v)
     
 <h2>How I did it!</h2>
 
